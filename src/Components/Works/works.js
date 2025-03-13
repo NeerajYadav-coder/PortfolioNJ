@@ -3,6 +3,7 @@ import './works.css'
 import todo from'../../assets/todo.png'
 import snake from'../../assets/snake.jpg'
 import techy from'../../assets/techy.png'
+import crypto from "../../assets/cp4.png"
 
 
 function Works() {
@@ -19,6 +20,9 @@ function Works() {
         </a>
       <a href='https://neerajyadav-coder.github.io/Snakegamee/'>
         <img src={snake} alt="" className="worksImg" />
+        </a>
+      <a href='https://xcrypto-sand.vercel.app/'>
+        <img src={crypto} alt="" className="worksImg" />
         </a>
       
     </div>
