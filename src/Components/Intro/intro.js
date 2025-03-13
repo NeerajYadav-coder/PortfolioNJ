@@ -16,7 +16,7 @@ function Intro() {
           </p>
 
           {/* Download Resume Button */}
-          <a href='/NeerajYadav-Resume.pdf' download='NeerajYadav-Resume.pdf'>
+          <a href='/NeerajYadav-Resume(2).pdf' download='NeerajYadav-Resume(2).pdf'>
             <button className='btn'>
               <img src={btnImg} alt='Hire' className='btnImg' />
               Hire me
