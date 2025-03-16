@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioNJ/static/css/main.ea4f1d97.css",
-    "main.js": "/PortfolioNJ/static/js/main.ef43599c.js",
+    "main.js": "/PortfolioNJ/static/js/main.d0d56550.js",
     "static/media/techy.png": "/PortfolioNJ/static/media/techy.ab9223fcebfab3ecdecc.png",
     "static/media/image.png": "/PortfolioNJ/static/media/image.00cdf3615da8d4c54ace.png",
     "static/media/snake.jpg": "/PortfolioNJ/static/media/snake.2e6e2dea6cc1abcad2b2.jpg",
@@ -12,10 +12,10 @@
     "static/media/instagram.png": "/PortfolioNJ/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/PortfolioNJ/index.html",
     "main.ea4f1d97.css.map": "/PortfolioNJ/static/css/main.ea4f1d97.css.map",
-    "main.ef43599c.js.map": "/PortfolioNJ/static/js/main.ef43599c.js.map"
+    "main.d0d56550.js.map": "/PortfolioNJ/static/js/main.d0d56550.js.map"
   },
   "entrypoints": [
     "static/css/main.ea4f1d97.css",
-    "static/js/main.ef43599c.js"
+    "static/js/main.d0d56550.js"
   ]
 }
