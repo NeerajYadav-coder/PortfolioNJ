@@ -55,6 +55,9 @@
     margin: 0 0.25rem;
     height: 1rem;
 }
+.btnImg:hover{
+    cursor: pointer;
+}
 @media screen and (max-width: 840px){
     .bg{
         right: -10vw;

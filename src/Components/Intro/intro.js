@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import bg from "../../assets/neeraj.png";
+import bg from "../../assets/image.png";
 import btnImg from "../../assets/hireme.png";
 
 function Intro() {
