@@ -21,7 +21,7 @@ function Intro() {
 
           {/* Download Resume Button */}
           <a
-  href="/NeerajYadav-Resume.pdf"
+  href="https://NeerajYadav-coder.github.io/PortfolioNJ/NeerajYadav-Resume.pdf"
   download="NeerajYadav-Resume.pdf"
 >
   <button className="btn">
@@ -29,6 +29,7 @@ function Intro() {
     Hire me
   </button>
 </a>
+
 
         </div>
         <img src={bg} alt="Profile" className="bg" />
