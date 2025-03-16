@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import bg from "../../assets/image.png";
+import bg from "../../assets/neeraj.png";
 import btnImg from "../../assets/hireme.png";
 
 function Intro() {
@@ -21,14 +21,15 @@ function Intro() {
 
           {/* Download Resume Button */}
           <a
-            href={`${process.env.PUBLIC_URL}/NeerajYadav-Resume(2).pdf`}
-            download="NeerajYadav-Resume(2).pdf"
-          >
-            <button className="btn">
-              <img src={btnImg} alt="Hire" className="btnImg" />
-              Hire me
-            </button>
-          </a>
+  href="/NeerajYadav-Resume.pdf"
+  download="NeerajYadav-Resume.pdf"
+>
+  <button className="btn">
+    <img src={btnImg} alt="Hire" className="btnImg" />
+    Hire me
+  </button>
+</a>
+
         </div>
         <img src={bg} alt="Profile" className="bg" />
       </section>
